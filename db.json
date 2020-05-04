@@ -1,0 +1,32 @@
+{
+    "cursos":[
+        {
+            "id": 1,
+            "title": "React desde cero",
+            "image":"https://edteam-media.s3.amazonaws.com/courses/original/5eaaec0b-fa78-4f48-94b6-61b757e1f5fa.png",
+            "price": 20,
+            "professor": "Lésther Josué" 
+        },
+        {
+            "id": 2,
+            "title": "Next JS",
+            "image":"https://edteam-media.s3.amazonaws.com/courses/original/6ebe865e-e7cd-44bd-94a6-f86630314d53.png",
+            "price": 24,
+            "professor": "Josué González" 
+        },
+        {
+            "id": 3,
+            "title": "Diseño de interfaces (UI Design)",
+            "image":"https://edteam-media.s3.amazonaws.com/specialities/original/56519662-7722-4e2e-958e-599a35ae4fb1.png",
+            "price": 88,
+            "professor": "Alvaro Felipe" 
+        },
+        {
+            "id": 4,
+            "title": "Taller: MySQL",
+            "image":"https://edteam-media.s3.amazonaws.com/courses/original/4c21cab6-2482-4a0d-8364-d3852a854fe3.png",
+            "price": 20,
+            "professor": "Aguilar" 
+        }
+    ]
+}
